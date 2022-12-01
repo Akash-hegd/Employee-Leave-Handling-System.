@@ -1,0 +1,3 @@
+shrutesh - contact number(maxlength=10,only numbers are allowed),email, email ID only 1 digit, full name spaces are not allowed
+nachiketha - maxlength in leave type and short description- 20,100(1 case), empty row(4 cases), 
+akash - date above 31 and below 1, password

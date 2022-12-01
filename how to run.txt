@@ -1,0 +1,8 @@
+how to run:
+https://codeastro.com/employee-leave-management-system-in-php-with-source-code/
+
+http://localhost/phpmyadmin 
+to create database import .sql file from files or above folder
+(i have already created database)
+
+http://localhost/EmployeeLeaveSystem-PHP/
